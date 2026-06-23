@@ -31,13 +31,6 @@ This is a mobile application developed for Android that helps users track daily 
 
 The application follows a clean, layered architecture based on Android's recommended practices, incorporating MVVM (Model-View-ViewModel) with a Data Layer and an optional Domain Layer. Dependency Injection with Hilt is used for managing components.
 
-### Architecture Diagram
-
-![Architecture Diagram](architecture_diagram.png)
-
-### Application Flow Diagram
-
-![Application Flow Diagram](app_flow_diagram.png)
 
 ## Project Structure
 
